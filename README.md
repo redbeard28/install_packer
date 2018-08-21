@@ -15,3 +15,6 @@ cd install_packer
 chmod 755 install_packer.sh
 ./install_packer.sh
 ```
+
+## Sources
+Packer's site => [install process](https://www.packer.io/intro/getting-started/install.html)
